@@ -20,7 +20,10 @@ npm install
 ```
 
 ### Samples
-![Sample 1](https://raw.githubusercontent.com/saikat709/todo-app-react/refs/heads/main/readme-assets/ss1.png)
+![Sample 1](https://raw.githubusercontent.com/saikat709/todo-app-react/refs/heads/main/public/ss1.png)
+
+![Sample 2](https://raw.githubusercontent.com/saikat709/todo-app-react/refs/heads/main/public/ss2.png)
+
 
 ### Development
 
