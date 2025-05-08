@@ -1,8 +1,4 @@
-# Welcome to React Router!
-
-A modern, production-ready template for building full-stack React applications using React Router.
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
+# Todo App Using React ( React-Router )
 
 ## Features
 
@@ -11,8 +7,7 @@ A modern, production-ready template for building full-stack React applications u
 - 📦 Asset bundling and optimization
 - 🔄 Data loading and mutations
 - 🔒 TypeScript by default
-- 🎉 TailwindCSS for styling
-- 📖 [React Router docs](https://reactrouter.com/)
+- 🎉 TailwindCSS for styliny
 
 ## Getting Started
 
@@ -23,6 +18,9 @@ Install the dependencies:
 ```bash
 npm install
 ```
+
+### Samples
+![Sample 1](https://raw.githubusercontent.com/saikat709/todo-app-react/refs/heads/main/readme-assets/ss1.png)
 
 ### Development
 
